@@ -1,179 +1,179 @@
 <svg height="2814" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="2814" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-20 19:17:29 +0000  1803453 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-20 19:17:29 +0000     1061 bytes  LICENSE</tspan>
-<tspan x="10" y="58">  2.  2017-04-20 19:17:29 +0000     8777 bytes  Readme.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-20 19:17:29 +0000     1152 bytes  appveyor.yml</tspan>
-<tspan x="10" y="90">  4.  2017-04-20 19:17:29 +0000     2407 bytes  binding.gyp</tspan>
-<tspan x="10" y="106">  5.  2017-04-20 19:17:29 +0000     3606 bytes  libusb.gypi</tspan>
-<tspan x="10" y="122">  6.  2017-04-20 19:17:29 +0000     1601 bytes  libusb/AUTHORS</tspan>
-<tspan x="10" y="138">  7.  2017-04-20 19:17:29 +0000    26436 bytes  libusb/COPYING</tspan>
-<tspan x="10" y="154">  8.  2017-04-20 19:17:29 +0000     8579 bytes  libusb/ChangeLog</tspan>
-<tspan x="10" y="170">  9.  2017-04-20 19:17:29 +0000     9416 bytes  libusb/INSTALL</tspan>
-<tspan x="10" y="186"> 10.  2017-04-20 19:17:29 +0000     3006 bytes  libusb/INSTALL_WIN.txt</tspan>
-<tspan x="10" y="202"> 11.  2017-04-20 19:17:29 +0000      672 bytes  libusb/Makefile.am</tspan>
-<tspan x="10" y="218"> 12.  2017-04-20 19:17:29 +0000       95 bytes  libusb/NEWS</tspan>
-<tspan x="10" y="234"> 13.  2017-04-20 19:17:29 +0000     3847 bytes  libusb/PORTING</tspan>
-<tspan x="10" y="250"> 14.  2017-04-20 19:17:29 +0000      934 bytes  libusb/README</tspan>
-<tspan x="10" y="266"> 15.  2017-04-20 19:17:29 +0000     1854 bytes  libusb/README.git</tspan>
-<tspan x="10" y="282"> 16.  2017-04-20 19:17:29 +0000      122 bytes  libusb/TODO</tspan>
-<tspan x="10" y="298"> 17.  2017-04-20 19:17:29 +0000     1845 bytes  libusb/Xcode/common.xcconfig</tspan>
-<tspan x="10" y="314"> 18.  2017-04-20 19:17:29 +0000     1106 bytes  libusb/Xcode/debug.xcconfig</tspan>
-<tspan x="10" y="330"> 19.  2017-04-20 19:17:29 +0000      967 bytes  libusb/Xcode/libusb.xcconfig</tspan>
-<tspan x="10" y="346"> 20.  2017-04-20 19:17:29 +0000    37569 bytes  libusb/Xcode/libusb.xcodeproj/project.pbxproj</tspan>
-<tspan x="10" y="362"> 21.  2017-04-20 19:17:29 +0000      942 bytes  libusb/Xcode/libusb_debug.xcconfig</tspan>
-<tspan x="10" y="378"> 22.  2017-04-20 19:17:29 +0000      944 bytes  libusb/Xcode/libusb_release.xcconfig</tspan>
-<tspan x="10" y="394"> 23.  2017-04-20 19:17:29 +0000     1178 bytes  libusb/Xcode/release.xcconfig</tspan>
-<tspan x="10" y="410"> 24.  2017-04-20 19:17:29 +0000     3552 bytes  libusb/android/README</tspan>
-<tspan x="10" y="426"> 25.  2017-04-20 19:17:29 +0000      973 bytes  libusb/android/jni/Android.mk</tspan>
-<tspan x="10" y="442"> 26.  2017-04-20 19:17:29 +0000     1010 bytes  libusb/android/jni/Application.mk</tspan>
-<tspan x="10" y="458"> 27.  2017-04-20 19:17:29 +0000     2612 bytes  libusb/android/jni/examples.mk</tspan>
-<tspan x="10" y="474"> 28.  2017-04-20 19:17:29 +0000     1703 bytes  libusb/android/jni/libusb.mk</tspan>
-<tspan x="10" y="490"> 29.  2017-04-20 19:17:29 +0000     1440 bytes  libusb/android/jni/tests.mk</tspan>
-<tspan x="10" y="506"> 30.  2017-04-20 19:17:29 +0000      165 bytes  libusb/autogen.sh</tspan>
-<tspan x="10" y="522"> 31.  2017-04-20 19:17:29 +0000      481 bytes  libusb/bootstrap.sh</tspan>
-<tspan x="10" y="538"> 32.  2017-04-20 19:17:29 +0000     9703 bytes  libusb/configure.ac</tspan>
-<tspan x="10" y="554"> 33.  2017-04-20 19:17:29 +0000      189 bytes  libusb/doc/Makefile.am</tspan>
-<tspan x="10" y="570"> 34.  2017-04-20 19:17:29 +0000    54042 bytes  libusb/doc/doxygen.cfg.in</tspan>
-<tspan x="10" y="586"> 35.  2017-04-20 19:17:29 +0000     2923 bytes  libusb/doc/libusb.png</tspan>
-<tspan x="10" y="602"> 36.  2017-04-20 19:17:29 +0000      432 bytes  libusb/examples/Makefile.am</tspan>
-<tspan x="10" y="618"> 37.  2017-04-20 19:17:29 +0000    10844 bytes  libusb/examples/dpfp.c</tspan>
-<tspan x="10" y="634"> 38.  2017-04-20 19:17:29 +0000    11704 bytes  libusb/examples/dpfp_threaded.c</tspan>
-<tspan x="10" y="650"> 39.  2017-04-20 19:17:29 +0000    23691 bytes  libusb/examples/ezusb.c</tspan>
-<tspan x="10" y="666"> 40.  2017-04-20 19:17:29 +0000     4315 bytes  libusb/examples/ezusb.h</tspan>
-<tspan x="10" y="682"> 41.  2017-04-20 19:17:29 +0000     8646 bytes  libusb/examples/fxload.c</tspan>
-<tspan x="10" y="698"> 42.  2017-04-20 19:17:29 +0000    30281 bytes  libusb/examples/getopt/getopt.c</tspan>
-<tspan x="10" y="714"> 43.  2017-04-20 19:17:29 +0000     6447 bytes  libusb/examples/getopt/getopt.h</tspan>
-<tspan x="10" y="730"> 44.  2017-04-20 19:17:29 +0000     4520 bytes  libusb/examples/getopt/getopt1.c</tspan>
-<tspan x="10" y="746"> 45.  2017-04-20 19:17:29 +0000     3064 bytes  libusb/examples/hotplugtest.c</tspan>
-<tspan x="10" y="762"> 46.  2017-04-20 19:17:29 +0000     1822 bytes  libusb/examples/listdevs.c</tspan>
-<tspan x="10" y="778"> 47.  2017-04-20 19:17:29 +0000     5160 bytes  libusb/examples/sam3u_benchmark.c</tspan>
-<tspan x="10" y="794"> 48.  2017-04-20 19:17:29 +0000    37829 bytes  libusb/examples/xusb.c</tspan>
-<tspan x="10" y="810"> 49.  2017-04-20 19:17:29 +0000      303 bytes  libusb/libusb-1.0.pc.in</tspan>
-<tspan x="10" y="826"> 50.  2017-04-20 19:17:29 +0000     2041 bytes  libusb/libusb/Makefile.am</tspan>
-<tspan x="10" y="842"> 51.  2017-04-20 19:17:29 +0000    79691 bytes  libusb/libusb/core.c</tspan>
-<tspan x="10" y="858"> 52.  2017-04-20 19:17:29 +0000    35744 bytes  libusb/libusb/descriptor.c</tspan>
-<tspan x="10" y="874"> 53.  2017-04-20 19:17:29 +0000    10271 bytes  libusb/libusb/hotplug.c</tspan>
-<tspan x="10" y="890"> 54.  2017-04-20 19:17:29 +0000     2592 bytes  libusb/libusb/hotplug.h</tspan>
-<tspan x="10" y="906"> 55.  2017-04-20 19:17:29 +0000   100826 bytes  libusb/libusb/io.c</tspan>
-<tspan x="10" y="922"> 56.  2017-04-20 19:17:29 +0000     7176 bytes  libusb/libusb/libusb-1.0.def</tspan>
-<tspan x="10" y="938"> 57.  2017-04-20 19:17:29 +0000     1771 bytes  libusb/libusb/libusb-1.0.rc</tspan>
-<tspan x="10" y="954"> 58.  2017-04-20 19:17:29 +0000    70156 bytes  libusb/libusb/libusb.h</tspan>
-<tspan x="10" y="970"> 59.  2017-04-20 19:17:29 +0000    37162 bytes  libusb/libusb/libusbi.h</tspan>
-<tspan x="10" y="986"> 60.  2017-04-20 19:17:29 +0000    73152 bytes  libusb/libusb/os/darwin_usb.c</tspan>
-<tspan x="10" y="1002"> 61.  2017-04-20 19:17:29 +0000     4529 bytes  libusb/libusb/os/darwin_usb.h</tspan>
-<tspan x="10" y="1018"> 62.  2017-04-20 19:17:29 +0000     8738 bytes  libusb/libusb/os/linux_netlink.c</tspan>
-<tspan x="10" y="1034"> 63.  2017-04-20 19:17:29 +0000     7852 bytes  libusb/libusb/os/linux_udev.c</tspan>
-<tspan x="10" y="1050"> 64.  2017-04-20 19:17:29 +0000    75346 bytes  libusb/libusb/os/linux_usbfs.c</tspan>
-<tspan x="10" y="1066"> 65.  2017-04-20 19:17:29 +0000     6033 bytes  libusb/libusb/os/linux_usbfs.h</tspan>
-<tspan x="10" y="1082"> 66.  2017-04-20 19:17:29 +0000    17879 bytes  libusb/libusb/os/netbsd_usb.c</tspan>
-<tspan x="10" y="1098"> 67.  2017-04-20 19:17:29 +0000    19983 bytes  libusb/libusb/os/openbsd_usb.c</tspan>
-<tspan x="10" y="1114"> 68.  2017-04-20 19:17:29 +0000     1422 bytes  libusb/libusb/os/poll_posix.c</tspan>
-<tspan x="10" y="1130"> 69.  2017-04-20 19:17:29 +0000      218 bytes  libusb/libusb/os/poll_posix.h</tspan>
-<tspan x="10" y="1146"> 70.  2017-04-20 19:17:29 +0000    21748 bytes  libusb/libusb/os/poll_windows.c</tspan>
-<tspan x="10" y="1162"> 71.  2017-04-20 19:17:29 +0000     4695 bytes  libusb/libusb/os/poll_windows.h</tspan>
-<tspan x="10" y="1178"> 72.  2017-04-20 19:17:29 +0000     2297 bytes  libusb/libusb/os/threads_posix.c</tspan>
-<tspan x="10" y="1194"> 73.  2017-04-20 19:17:29 +0000     1894 bytes  libusb/libusb/os/threads_posix.h</tspan>
-<tspan x="10" y="1210"> 74.  2017-04-20 19:17:29 +0000     7013 bytes  libusb/libusb/os/threads_windows.c</tspan>
-<tspan x="10" y="1226"> 75.  2017-04-20 19:17:29 +0000     2845 bytes  libusb/libusb/os/threads_windows.h</tspan>
-<tspan x="10" y="1242"> 76.  2017-04-20 19:17:29 +0000    33983 bytes  libusb/libusb/os/wince_usb.c</tspan>
-<tspan x="10" y="1258"> 77.  2017-04-20 19:17:29 +0000     5491 bytes  libusb/libusb/os/wince_usb.h</tspan>
-<tspan x="10" y="1274"> 78.  2017-04-20 19:17:29 +0000     5379 bytes  libusb/libusb/os/windows_common.h</tspan>
-<tspan x="10" y="1290"> 79.  2017-04-20 19:17:29 +0000   181290 bytes  libusb/libusb/os/windows_usb.c</tspan>
-<tspan x="10" y="1306"> 80.  2017-04-20 19:17:29 +0000    32682 bytes  libusb/libusb/os/windows_usb.h</tspan>
-<tspan x="10" y="1322"> 81.  2017-04-20 19:17:29 +0000     7425 bytes  libusb/libusb/strerror.c</tspan>
-<tspan x="10" y="1338"> 82.  2017-04-20 19:17:29 +0000    11209 bytes  libusb/libusb/sync.c</tspan>
-<tspan x="10" y="1354"> 83.  2017-04-20 19:17:29 +0000      431 bytes  libusb/libusb/version.h</tspan>
-<tspan x="10" y="1370"> 84.  2017-04-20 19:17:29 +0000       26 bytes  libusb/libusb/version_nano.h</tspan>
-<tspan x="10" y="1386"> 85.  2017-04-20 19:17:29 +0000     1293 bytes  libusb/msvc/config.h</tspan>
-<tspan x="10" y="1402"> 86.  2017-04-20 19:17:29 +0000     3589 bytes  libusb/msvc/ddk_build.cmd</tspan>
-<tspan x="10" y="1418"> 87.  2017-04-20 19:17:29 +0000     3305 bytes  libusb/msvc/errno.h</tspan>
-<tspan x="10" y="1434"> 88.  2017-04-20 19:17:29 +0000     9347 bytes  libusb/msvc/fxload_2010.vcxproj</tspan>
-<tspan x="10" y="1450"> 89.  2017-04-20 19:17:29 +0000      887 bytes  libusb/msvc/fxload_2010.vcxproj.filters</tspan>
-<tspan x="10" y="1466"> 90.  2017-04-20 19:17:29 +0000     9527 bytes  libusb/msvc/fxload_2012.vcxproj</tspan>
-<tspan x="10" y="1482"> 91.  2017-04-20 19:17:29 +0000      887 bytes  libusb/msvc/fxload_2012.vcxproj.filters</tspan>
-<tspan x="10" y="1498"> 92.  2017-04-20 19:17:29 +0000     9528 bytes  libusb/msvc/fxload_2013.vcxproj</tspan>
-<tspan x="10" y="1514"> 93.  2017-04-20 19:17:29 +0000      500 bytes  libusb/msvc/fxload_sources</tspan>
-<tspan x="10" y="1530"> 94.  2017-04-20 19:17:29 +0000     5905 bytes  libusb/msvc/getopt_2005.vcproj</tspan>
-<tspan x="10" y="1546"> 95.  2017-04-20 19:17:29 +0000     7188 bytes  libusb/msvc/getopt_2010.vcxproj</tspan>
-<tspan x="10" y="1562"> 96.  2017-04-20 19:17:29 +0000      968 bytes  libusb/msvc/getopt_2010.vcxproj.filters</tspan>
-<tspan x="10" y="1578"> 97.  2017-04-20 19:17:29 +0000     7407 bytes  libusb/msvc/getopt_2012.vcxproj</tspan>
-<tspan x="10" y="1594"> 98.  2017-04-20 19:17:29 +0000      968 bytes  libusb/msvc/getopt_2012.vcxproj.filters</tspan>
-<tspan x="10" y="1610"> 99.  2017-04-20 19:17:29 +0000     7408 bytes  libusb/msvc/getopt_2013.vcxproj</tspan>
-<tspan x="10" y="1626">100.  2017-04-20 19:17:29 +0000      373 bytes  libusb/msvc/getopt_sources</tspan>
-<tspan x="10" y="1642">101.  2017-04-20 19:17:29 +0000     8944 bytes  libusb/msvc/hotplugtest_2010.vcxproj</tspan>
-<tspan x="10" y="1658">102.  2017-04-20 19:17:29 +0000      522 bytes  libusb/msvc/hotplugtest_2010.vcxproj.filters</tspan>
-<tspan x="10" y="1674">103.  2017-04-20 19:17:29 +0000     9124 bytes  libusb/msvc/hotplugtest_2012.vcxproj</tspan>
-<tspan x="10" y="1690">104.  2017-04-20 19:17:29 +0000      522 bytes  libusb/msvc/hotplugtest_2012.vcxproj.filters</tspan>
-<tspan x="10" y="1706">105.  2017-04-20 19:17:29 +0000     9125 bytes  libusb/msvc/hotplugtest_2013.vcxproj</tspan>
-<tspan x="10" y="1722">106.  2017-04-20 19:17:29 +0000      370 bytes  libusb/msvc/hotplugtest_sources</tspan>
-<tspan x="10" y="1738">107.  2017-04-20 19:17:29 +0000     5693 bytes  libusb/msvc/inttypes.h</tspan>
-<tspan x="10" y="1754">108.  2017-04-20 19:17:29 +0000     1314 bytes  libusb/msvc/libusb.dsw</tspan>
-<tspan x="10" y="1770">109.  2017-04-20 19:17:29 +0000     5500 bytes  libusb/msvc/libusb_2005.sln</tspan>
-<tspan x="10" y="1786">110.  2017-04-20 19:17:29 +0000     6412 bytes  libusb/msvc/libusb_2010.sln</tspan>
-<tspan x="10" y="1802">111.  2017-04-20 19:17:29 +0000     6412 bytes  libusb/msvc/libusb_2012.sln</tspan>
-<tspan x="10" y="1818">112.  2017-04-20 19:17:29 +0000     6795 bytes  libusb/msvc/libusb_2013.sln</tspan>
-<tspan x="10" y="1834">113.  2017-04-20 19:17:29 +0000     5896 bytes  libusb/msvc/libusb_dll.dsp</tspan>
-<tspan x="10" y="1850">114.  2017-04-20 19:17:29 +0000     9205 bytes  libusb/msvc/libusb_dll_2005.vcproj</tspan>
-<tspan x="10" y="1866">115.  2017-04-20 19:17:29 +0000     9817 bytes  libusb/msvc/libusb_dll_2010.vcxproj</tspan>
-<tspan x="10" y="1882">116.  2017-04-20 19:17:29 +0000     2834 bytes  libusb/msvc/libusb_dll_2010.vcxproj.filters</tspan>
-<tspan x="10" y="1898">117.  2017-04-20 19:17:29 +0000    10041 bytes  libusb/msvc/libusb_dll_2012.vcxproj</tspan>
-<tspan x="10" y="1914">118.  2017-04-20 19:17:29 +0000     2931 bytes  libusb/msvc/libusb_dll_2012.vcxproj.filters</tspan>
-<tspan x="10" y="1930">119.  2017-04-20 19:17:29 +0000    10042 bytes  libusb/msvc/libusb_dll_2013.vcxproj</tspan>
-<tspan x="10" y="1946">120.  2017-04-20 19:17:29 +0000    28206 bytes  libusb/msvc/libusb_dll_wince.vcproj</tspan>
-<tspan x="10" y="1962">121.  2017-04-20 19:17:29 +0000     1103 bytes  libusb/msvc/libusb_sources</tspan>
-<tspan x="10" y="1978">122.  2017-04-20 19:17:29 +0000     4621 bytes  libusb/msvc/libusb_static.dsp</tspan>
-<tspan x="10" y="1994">123.  2017-04-20 19:17:29 +0000     7513 bytes  libusb/msvc/libusb_static_2005.vcproj</tspan>
-<tspan x="10" y="2010">124.  2017-04-20 19:17:29 +0000     8885 bytes  libusb/msvc/libusb_static_2010.vcxproj</tspan>
-<tspan x="10" y="2026">125.  2017-04-20 19:17:29 +0000     2625 bytes  libusb/msvc/libusb_static_2010.vcxproj.filters</tspan>
-<tspan x="10" y="2042">126.  2017-04-20 19:17:29 +0000     9065 bytes  libusb/msvc/libusb_static_2012.vcxproj</tspan>
-<tspan x="10" y="2058">127.  2017-04-20 19:17:29 +0000     2625 bytes  libusb/msvc/libusb_static_2012.vcxproj.filters</tspan>
-<tspan x="10" y="2074">128.  2017-04-20 19:17:29 +0000     9066 bytes  libusb/msvc/libusb_static_2013.vcxproj</tspan>
-<tspan x="10" y="2090">129.  2017-04-20 19:17:29 +0000    26608 bytes  libusb/msvc/libusb_static_wince.vcproj</tspan>
-<tspan x="10" y="2106">130.  2017-04-20 19:17:29 +0000    26630 bytes  libusb/msvc/libusb_wince.sln</tspan>
-<tspan x="10" y="2122">131.  2017-04-20 19:17:29 +0000     4391 bytes  libusb/msvc/listdevs.dsp</tspan>
-<tspan x="10" y="2138">132.  2017-04-20 19:17:29 +0000     7444 bytes  libusb/msvc/listdevs_2005.vcproj</tspan>
-<tspan x="10" y="2154">133.  2017-04-20 19:17:29 +0000     9068 bytes  libusb/msvc/listdevs_2010.vcxproj</tspan>
-<tspan x="10" y="2170">134.  2017-04-20 19:17:29 +0000      519 bytes  libusb/msvc/listdevs_2010.vcxproj.filters</tspan>
-<tspan x="10" y="2186">135.  2017-04-20 19:17:29 +0000     9248 bytes  libusb/msvc/listdevs_2012.vcxproj</tspan>
-<tspan x="10" y="2202">136.  2017-04-20 19:17:29 +0000      519 bytes  libusb/msvc/listdevs_2012.vcxproj.filters</tspan>
-<tspan x="10" y="2218">137.  2017-04-20 19:17:29 +0000     9249 bytes  libusb/msvc/listdevs_2013.vcxproj</tspan>
-<tspan x="10" y="2234">138.  2017-04-20 19:17:29 +0000      352 bytes  libusb/msvc/listdevs_sources</tspan>
-<tspan x="10" y="2250">139.  2017-04-20 19:17:29 +0000    25112 bytes  libusb/msvc/listdevs_wince.vcproj</tspan>
-<tspan x="10" y="2266">140.  2017-04-20 19:17:29 +0000     2494 bytes  libusb/msvc/missing.c</tspan>
-<tspan x="10" y="2282">141.  2017-04-20 19:17:29 +0000     1142 bytes  libusb/msvc/missing.h</tspan>
-<tspan x="10" y="2298">142.  2017-04-20 19:17:29 +0000     7059 bytes  libusb/msvc/stdint.h</tspan>
-<tspan x="10" y="2314">143.  2017-04-20 19:17:29 +0000     8071 bytes  libusb/msvc/stress_2005.vcproj</tspan>
-<tspan x="10" y="2330">144.  2017-04-20 19:17:29 +0000     9038 bytes  libusb/msvc/stress_2010.vcxproj</tspan>
-<tspan x="10" y="2346">145.  2017-04-20 19:17:29 +0000      889 bytes  libusb/msvc/stress_2010.vcxproj.filters</tspan>
-<tspan x="10" y="2362">146.  2017-04-20 19:17:29 +0000     9218 bytes  libusb/msvc/stress_2012.vcxproj</tspan>
-<tspan x="10" y="2378">147.  2017-04-20 19:17:29 +0000      889 bytes  libusb/msvc/stress_2012.vcxproj.filters</tspan>
-<tspan x="10" y="2394">148.  2017-04-20 19:17:29 +0000     9219 bytes  libusb/msvc/stress_2013.vcxproj</tspan>
-<tspan x="10" y="2410">149.  2017-04-20 19:17:29 +0000    25160 bytes  libusb/msvc/stress_wince.vcproj</tspan>
-<tspan x="10" y="2426">150.  2017-04-20 19:17:29 +0000     4346 bytes  libusb/msvc/xusb.dsp</tspan>
-<tspan x="10" y="2442">151.  2017-04-20 19:17:29 +0000     7176 bytes  libusb/msvc/xusb_2005.vcproj</tspan>
-<tspan x="10" y="2458">152.  2017-04-20 19:17:29 +0000     8930 bytes  libusb/msvc/xusb_2010.vcxproj</tspan>
-<tspan x="10" y="2474">153.  2017-04-20 19:17:29 +0000      515 bytes  libusb/msvc/xusb_2010.vcxproj.filters</tspan>
-<tspan x="10" y="2490">154.  2017-04-20 19:17:29 +0000     9110 bytes  libusb/msvc/xusb_2012.vcxproj</tspan>
-<tspan x="10" y="2506">155.  2017-04-20 19:17:29 +0000      515 bytes  libusb/msvc/xusb_2012.vcxproj.filters</tspan>
-<tspan x="10" y="2522">156.  2017-04-20 19:17:29 +0000     9111 bytes  libusb/msvc/xusb_2013.vcxproj</tspan>
-<tspan x="10" y="2538">157.  2017-04-20 19:17:29 +0000      356 bytes  libusb/msvc/xusb_sources</tspan>
-<tspan x="10" y="2554">158.  2017-04-20 19:17:29 +0000    25096 bytes  libusb/msvc/xusb_wince.vcproj</tspan>
-<tspan x="10" y="2570">159.  2017-04-20 19:17:29 +0000      149 bytes  libusb/tests/Makefile.am</tspan>
-<tspan x="10" y="2586">160.  2017-04-20 19:17:29 +0000     3009 bytes  libusb/tests/libusb_testlib.h</tspan>
-<tspan x="10" y="2602">161.  2017-04-20 19:17:29 +0000     4661 bytes  libusb/tests/stress.c</tspan>
-<tspan x="10" y="2618">162.  2017-04-20 19:17:29 +0000     7392 bytes  libusb/tests/testlib.c</tspan>
-<tspan x="10" y="2634">163.  2017-04-20 19:17:29 +0000       33 bytes  libusb_config/config.h</tspan>
-<tspan x="10" y="2650">164.  2017-04-20 19:17:29 +0000     1409 bytes  package.json</tspan>
-<tspan x="10" y="2666">165.  2017-04-20 19:17:29 +0000    11843 bytes  src/device.cc</tspan>
-<tspan x="10" y="2682">166.  2017-04-20 19:17:29 +0000     2794 bytes  src/helpers.h</tspan>
-<tspan x="10" y="2698">167.  2017-04-20 19:17:29 +0000    10455 bytes  src/node_usb.cc</tspan>
-<tspan x="10" y="2714">168.  2017-04-20 19:17:29 +0000     1922 bytes  src/node_usb.h</tspan>
-<tspan x="10" y="2730">169.  2017-04-20 19:17:29 +0000      310 bytes  src/polyfill.h</tspan>
-<tspan x="10" y="2746">170.  2017-04-20 19:17:29 +0000     4115 bytes  src/transfer.cc</tspan>
-<tspan x="10" y="2762">171.  2017-04-20 19:17:29 +0000     1462 bytes  src/uv_async_queue.h</tspan>
-<tspan x="10" y="2778">172.  2017-04-20 19:17:29 +0000     5517 bytes  test/usb.coffee</tspan>
-<tspan x="10" y="2794">173.  2017-04-20 19:17:29 +0000     9663 bytes  usb.js</tspan>
+<tspan x="10" y="26">  0.  2017-04-20 19:19:09 +0000  1803453 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-20 19:19:09 +0000     1061 bytes  LICENSE</tspan>
+<tspan x="10" y="58">  2.  2017-04-20 19:19:09 +0000     8777 bytes  Readme.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-20 19:19:09 +0000     1152 bytes  appveyor.yml</tspan>
+<tspan x="10" y="90">  4.  2017-04-20 19:19:09 +0000     2407 bytes  binding.gyp</tspan>
+<tspan x="10" y="106">  5.  2017-04-20 19:19:09 +0000     3606 bytes  libusb.gypi</tspan>
+<tspan x="10" y="122">  6.  2017-04-20 19:19:09 +0000     1601 bytes  libusb/AUTHORS</tspan>
+<tspan x="10" y="138">  7.  2017-04-20 19:19:09 +0000    26436 bytes  libusb/COPYING</tspan>
+<tspan x="10" y="154">  8.  2017-04-20 19:19:09 +0000     8579 bytes  libusb/ChangeLog</tspan>
+<tspan x="10" y="170">  9.  2017-04-20 19:19:09 +0000     9416 bytes  libusb/INSTALL</tspan>
+<tspan x="10" y="186"> 10.  2017-04-20 19:19:09 +0000     3006 bytes  libusb/INSTALL_WIN.txt</tspan>
+<tspan x="10" y="202"> 11.  2017-04-20 19:19:09 +0000      672 bytes  libusb/Makefile.am</tspan>
+<tspan x="10" y="218"> 12.  2017-04-20 19:19:09 +0000       95 bytes  libusb/NEWS</tspan>
+<tspan x="10" y="234"> 13.  2017-04-20 19:19:09 +0000     3847 bytes  libusb/PORTING</tspan>
+<tspan x="10" y="250"> 14.  2017-04-20 19:19:09 +0000      934 bytes  libusb/README</tspan>
+<tspan x="10" y="266"> 15.  2017-04-20 19:19:09 +0000     1854 bytes  libusb/README.git</tspan>
+<tspan x="10" y="282"> 16.  2017-04-20 19:19:09 +0000      122 bytes  libusb/TODO</tspan>
+<tspan x="10" y="298"> 17.  2017-04-20 19:19:09 +0000     1845 bytes  libusb/Xcode/common.xcconfig</tspan>
+<tspan x="10" y="314"> 18.  2017-04-20 19:19:09 +0000     1106 bytes  libusb/Xcode/debug.xcconfig</tspan>
+<tspan x="10" y="330"> 19.  2017-04-20 19:19:09 +0000      967 bytes  libusb/Xcode/libusb.xcconfig</tspan>
+<tspan x="10" y="346"> 20.  2017-04-20 19:19:09 +0000    37569 bytes  libusb/Xcode/libusb.xcodeproj/project.pbxproj</tspan>
+<tspan x="10" y="362"> 21.  2017-04-20 19:19:09 +0000      942 bytes  libusb/Xcode/libusb_debug.xcconfig</tspan>
+<tspan x="10" y="378"> 22.  2017-04-20 19:19:09 +0000      944 bytes  libusb/Xcode/libusb_release.xcconfig</tspan>
+<tspan x="10" y="394"> 23.  2017-04-20 19:19:09 +0000     1178 bytes  libusb/Xcode/release.xcconfig</tspan>
+<tspan x="10" y="410"> 24.  2017-04-20 19:19:09 +0000     3552 bytes  libusb/android/README</tspan>
+<tspan x="10" y="426"> 25.  2017-04-20 19:19:09 +0000      973 bytes  libusb/android/jni/Android.mk</tspan>
+<tspan x="10" y="442"> 26.  2017-04-20 19:19:09 +0000     1010 bytes  libusb/android/jni/Application.mk</tspan>
+<tspan x="10" y="458"> 27.  2017-04-20 19:19:09 +0000     2612 bytes  libusb/android/jni/examples.mk</tspan>
+<tspan x="10" y="474"> 28.  2017-04-20 19:19:09 +0000     1703 bytes  libusb/android/jni/libusb.mk</tspan>
+<tspan x="10" y="490"> 29.  2017-04-20 19:19:09 +0000     1440 bytes  libusb/android/jni/tests.mk</tspan>
+<tspan x="10" y="506"> 30.  2017-04-20 19:19:09 +0000      165 bytes  libusb/autogen.sh</tspan>
+<tspan x="10" y="522"> 31.  2017-04-20 19:19:09 +0000      481 bytes  libusb/bootstrap.sh</tspan>
+<tspan x="10" y="538"> 32.  2017-04-20 19:19:09 +0000     9703 bytes  libusb/configure.ac</tspan>
+<tspan x="10" y="554"> 33.  2017-04-20 19:19:09 +0000      189 bytes  libusb/doc/Makefile.am</tspan>
+<tspan x="10" y="570"> 34.  2017-04-20 19:19:09 +0000    54042 bytes  libusb/doc/doxygen.cfg.in</tspan>
+<tspan x="10" y="586"> 35.  2017-04-20 19:19:09 +0000     2923 bytes  libusb/doc/libusb.png</tspan>
+<tspan x="10" y="602"> 36.  2017-04-20 19:19:09 +0000      432 bytes  libusb/examples/Makefile.am</tspan>
+<tspan x="10" y="618"> 37.  2017-04-20 19:19:09 +0000    10844 bytes  libusb/examples/dpfp.c</tspan>
+<tspan x="10" y="634"> 38.  2017-04-20 19:19:09 +0000    11704 bytes  libusb/examples/dpfp_threaded.c</tspan>
+<tspan x="10" y="650"> 39.  2017-04-20 19:19:09 +0000    23691 bytes  libusb/examples/ezusb.c</tspan>
+<tspan x="10" y="666"> 40.  2017-04-20 19:19:09 +0000     4315 bytes  libusb/examples/ezusb.h</tspan>
+<tspan x="10" y="682"> 41.  2017-04-20 19:19:09 +0000     8646 bytes  libusb/examples/fxload.c</tspan>
+<tspan x="10" y="698"> 42.  2017-04-20 19:19:09 +0000    30281 bytes  libusb/examples/getopt/getopt.c</tspan>
+<tspan x="10" y="714"> 43.  2017-04-20 19:19:09 +0000     6447 bytes  libusb/examples/getopt/getopt.h</tspan>
+<tspan x="10" y="730"> 44.  2017-04-20 19:19:09 +0000     4520 bytes  libusb/examples/getopt/getopt1.c</tspan>
+<tspan x="10" y="746"> 45.  2017-04-20 19:19:09 +0000     3064 bytes  libusb/examples/hotplugtest.c</tspan>
+<tspan x="10" y="762"> 46.  2017-04-20 19:19:09 +0000     1822 bytes  libusb/examples/listdevs.c</tspan>
+<tspan x="10" y="778"> 47.  2017-04-20 19:19:09 +0000     5160 bytes  libusb/examples/sam3u_benchmark.c</tspan>
+<tspan x="10" y="794"> 48.  2017-04-20 19:19:09 +0000    37829 bytes  libusb/examples/xusb.c</tspan>
+<tspan x="10" y="810"> 49.  2017-04-20 19:19:09 +0000      303 bytes  libusb/libusb-1.0.pc.in</tspan>
+<tspan x="10" y="826"> 50.  2017-04-20 19:19:09 +0000     2041 bytes  libusb/libusb/Makefile.am</tspan>
+<tspan x="10" y="842"> 51.  2017-04-20 19:19:09 +0000    79691 bytes  libusb/libusb/core.c</tspan>
+<tspan x="10" y="858"> 52.  2017-04-20 19:19:09 +0000    35744 bytes  libusb/libusb/descriptor.c</tspan>
+<tspan x="10" y="874"> 53.  2017-04-20 19:19:09 +0000    10271 bytes  libusb/libusb/hotplug.c</tspan>
+<tspan x="10" y="890"> 54.  2017-04-20 19:19:09 +0000     2592 bytes  libusb/libusb/hotplug.h</tspan>
+<tspan x="10" y="906"> 55.  2017-04-20 19:19:09 +0000   100826 bytes  libusb/libusb/io.c</tspan>
+<tspan x="10" y="922"> 56.  2017-04-20 19:19:09 +0000     7176 bytes  libusb/libusb/libusb-1.0.def</tspan>
+<tspan x="10" y="938"> 57.  2017-04-20 19:19:09 +0000     1771 bytes  libusb/libusb/libusb-1.0.rc</tspan>
+<tspan x="10" y="954"> 58.  2017-04-20 19:19:09 +0000    70156 bytes  libusb/libusb/libusb.h</tspan>
+<tspan x="10" y="970"> 59.  2017-04-20 19:19:09 +0000    37162 bytes  libusb/libusb/libusbi.h</tspan>
+<tspan x="10" y="986"> 60.  2017-04-20 19:19:09 +0000    73152 bytes  libusb/libusb/os/darwin_usb.c</tspan>
+<tspan x="10" y="1002"> 61.  2017-04-20 19:19:09 +0000     4529 bytes  libusb/libusb/os/darwin_usb.h</tspan>
+<tspan x="10" y="1018"> 62.  2017-04-20 19:19:09 +0000     8738 bytes  libusb/libusb/os/linux_netlink.c</tspan>
+<tspan x="10" y="1034"> 63.  2017-04-20 19:19:09 +0000     7852 bytes  libusb/libusb/os/linux_udev.c</tspan>
+<tspan x="10" y="1050"> 64.  2017-04-20 19:19:09 +0000    75346 bytes  libusb/libusb/os/linux_usbfs.c</tspan>
+<tspan x="10" y="1066"> 65.  2017-04-20 19:19:09 +0000     6033 bytes  libusb/libusb/os/linux_usbfs.h</tspan>
+<tspan x="10" y="1082"> 66.  2017-04-20 19:19:09 +0000    17879 bytes  libusb/libusb/os/netbsd_usb.c</tspan>
+<tspan x="10" y="1098"> 67.  2017-04-20 19:19:09 +0000    19983 bytes  libusb/libusb/os/openbsd_usb.c</tspan>
+<tspan x="10" y="1114"> 68.  2017-04-20 19:19:09 +0000     1422 bytes  libusb/libusb/os/poll_posix.c</tspan>
+<tspan x="10" y="1130"> 69.  2017-04-20 19:19:09 +0000      218 bytes  libusb/libusb/os/poll_posix.h</tspan>
+<tspan x="10" y="1146"> 70.  2017-04-20 19:19:09 +0000    21748 bytes  libusb/libusb/os/poll_windows.c</tspan>
+<tspan x="10" y="1162"> 71.  2017-04-20 19:19:09 +0000     4695 bytes  libusb/libusb/os/poll_windows.h</tspan>
+<tspan x="10" y="1178"> 72.  2017-04-20 19:19:09 +0000     2297 bytes  libusb/libusb/os/threads_posix.c</tspan>
+<tspan x="10" y="1194"> 73.  2017-04-20 19:19:09 +0000     1894 bytes  libusb/libusb/os/threads_posix.h</tspan>
+<tspan x="10" y="1210"> 74.  2017-04-20 19:19:09 +0000     7013 bytes  libusb/libusb/os/threads_windows.c</tspan>
+<tspan x="10" y="1226"> 75.  2017-04-20 19:19:09 +0000     2845 bytes  libusb/libusb/os/threads_windows.h</tspan>
+<tspan x="10" y="1242"> 76.  2017-04-20 19:19:09 +0000    33983 bytes  libusb/libusb/os/wince_usb.c</tspan>
+<tspan x="10" y="1258"> 77.  2017-04-20 19:19:09 +0000     5491 bytes  libusb/libusb/os/wince_usb.h</tspan>
+<tspan x="10" y="1274"> 78.  2017-04-20 19:19:09 +0000     5379 bytes  libusb/libusb/os/windows_common.h</tspan>
+<tspan x="10" y="1290"> 79.  2017-04-20 19:19:09 +0000   181290 bytes  libusb/libusb/os/windows_usb.c</tspan>
+<tspan x="10" y="1306"> 80.  2017-04-20 19:19:09 +0000    32682 bytes  libusb/libusb/os/windows_usb.h</tspan>
+<tspan x="10" y="1322"> 81.  2017-04-20 19:19:09 +0000     7425 bytes  libusb/libusb/strerror.c</tspan>
+<tspan x="10" y="1338"> 82.  2017-04-20 19:19:09 +0000    11209 bytes  libusb/libusb/sync.c</tspan>
+<tspan x="10" y="1354"> 83.  2017-04-20 19:19:09 +0000      431 bytes  libusb/libusb/version.h</tspan>
+<tspan x="10" y="1370"> 84.  2017-04-20 19:19:09 +0000       26 bytes  libusb/libusb/version_nano.h</tspan>
+<tspan x="10" y="1386"> 85.  2017-04-20 19:19:09 +0000     1293 bytes  libusb/msvc/config.h</tspan>
+<tspan x="10" y="1402"> 86.  2017-04-20 19:19:09 +0000     3589 bytes  libusb/msvc/ddk_build.cmd</tspan>
+<tspan x="10" y="1418"> 87.  2017-04-20 19:19:09 +0000     3305 bytes  libusb/msvc/errno.h</tspan>
+<tspan x="10" y="1434"> 88.  2017-04-20 19:19:09 +0000     9347 bytes  libusb/msvc/fxload_2010.vcxproj</tspan>
+<tspan x="10" y="1450"> 89.  2017-04-20 19:19:09 +0000      887 bytes  libusb/msvc/fxload_2010.vcxproj.filters</tspan>
+<tspan x="10" y="1466"> 90.  2017-04-20 19:19:09 +0000     9527 bytes  libusb/msvc/fxload_2012.vcxproj</tspan>
+<tspan x="10" y="1482"> 91.  2017-04-20 19:19:09 +0000      887 bytes  libusb/msvc/fxload_2012.vcxproj.filters</tspan>
+<tspan x="10" y="1498"> 92.  2017-04-20 19:19:09 +0000     9528 bytes  libusb/msvc/fxload_2013.vcxproj</tspan>
+<tspan x="10" y="1514"> 93.  2017-04-20 19:19:09 +0000      500 bytes  libusb/msvc/fxload_sources</tspan>
+<tspan x="10" y="1530"> 94.  2017-04-20 19:19:09 +0000     5905 bytes  libusb/msvc/getopt_2005.vcproj</tspan>
+<tspan x="10" y="1546"> 95.  2017-04-20 19:19:09 +0000     7188 bytes  libusb/msvc/getopt_2010.vcxproj</tspan>
+<tspan x="10" y="1562"> 96.  2017-04-20 19:19:09 +0000      968 bytes  libusb/msvc/getopt_2010.vcxproj.filters</tspan>
+<tspan x="10" y="1578"> 97.  2017-04-20 19:19:09 +0000     7407 bytes  libusb/msvc/getopt_2012.vcxproj</tspan>
+<tspan x="10" y="1594"> 98.  2017-04-20 19:19:09 +0000      968 bytes  libusb/msvc/getopt_2012.vcxproj.filters</tspan>
+<tspan x="10" y="1610"> 99.  2017-04-20 19:19:09 +0000     7408 bytes  libusb/msvc/getopt_2013.vcxproj</tspan>
+<tspan x="10" y="1626">100.  2017-04-20 19:19:09 +0000      373 bytes  libusb/msvc/getopt_sources</tspan>
+<tspan x="10" y="1642">101.  2017-04-20 19:19:09 +0000     8944 bytes  libusb/msvc/hotplugtest_2010.vcxproj</tspan>
+<tspan x="10" y="1658">102.  2017-04-20 19:19:09 +0000      522 bytes  libusb/msvc/hotplugtest_2010.vcxproj.filters</tspan>
+<tspan x="10" y="1674">103.  2017-04-20 19:19:09 +0000     9124 bytes  libusb/msvc/hotplugtest_2012.vcxproj</tspan>
+<tspan x="10" y="1690">104.  2017-04-20 19:19:09 +0000      522 bytes  libusb/msvc/hotplugtest_2012.vcxproj.filters</tspan>
+<tspan x="10" y="1706">105.  2017-04-20 19:19:09 +0000     9125 bytes  libusb/msvc/hotplugtest_2013.vcxproj</tspan>
+<tspan x="10" y="1722">106.  2017-04-20 19:19:09 +0000      370 bytes  libusb/msvc/hotplugtest_sources</tspan>
+<tspan x="10" y="1738">107.  2017-04-20 19:19:09 +0000     5693 bytes  libusb/msvc/inttypes.h</tspan>
+<tspan x="10" y="1754">108.  2017-04-20 19:19:09 +0000     1314 bytes  libusb/msvc/libusb.dsw</tspan>
+<tspan x="10" y="1770">109.  2017-04-20 19:19:09 +0000     5500 bytes  libusb/msvc/libusb_2005.sln</tspan>
+<tspan x="10" y="1786">110.  2017-04-20 19:19:09 +0000     6412 bytes  libusb/msvc/libusb_2010.sln</tspan>
+<tspan x="10" y="1802">111.  2017-04-20 19:19:09 +0000     6412 bytes  libusb/msvc/libusb_2012.sln</tspan>
+<tspan x="10" y="1818">112.  2017-04-20 19:19:09 +0000     6795 bytes  libusb/msvc/libusb_2013.sln</tspan>
+<tspan x="10" y="1834">113.  2017-04-20 19:19:09 +0000     5896 bytes  libusb/msvc/libusb_dll.dsp</tspan>
+<tspan x="10" y="1850">114.  2017-04-20 19:19:09 +0000     9205 bytes  libusb/msvc/libusb_dll_2005.vcproj</tspan>
+<tspan x="10" y="1866">115.  2017-04-20 19:19:09 +0000     9817 bytes  libusb/msvc/libusb_dll_2010.vcxproj</tspan>
+<tspan x="10" y="1882">116.  2017-04-20 19:19:09 +0000     2834 bytes  libusb/msvc/libusb_dll_2010.vcxproj.filters</tspan>
+<tspan x="10" y="1898">117.  2017-04-20 19:19:09 +0000    10041 bytes  libusb/msvc/libusb_dll_2012.vcxproj</tspan>
+<tspan x="10" y="1914">118.  2017-04-20 19:19:09 +0000     2931 bytes  libusb/msvc/libusb_dll_2012.vcxproj.filters</tspan>
+<tspan x="10" y="1930">119.  2017-04-20 19:19:09 +0000    10042 bytes  libusb/msvc/libusb_dll_2013.vcxproj</tspan>
+<tspan x="10" y="1946">120.  2017-04-20 19:19:09 +0000    28206 bytes  libusb/msvc/libusb_dll_wince.vcproj</tspan>
+<tspan x="10" y="1962">121.  2017-04-20 19:19:09 +0000     1103 bytes  libusb/msvc/libusb_sources</tspan>
+<tspan x="10" y="1978">122.  2017-04-20 19:19:09 +0000     4621 bytes  libusb/msvc/libusb_static.dsp</tspan>
+<tspan x="10" y="1994">123.  2017-04-20 19:19:09 +0000     7513 bytes  libusb/msvc/libusb_static_2005.vcproj</tspan>
+<tspan x="10" y="2010">124.  2017-04-20 19:19:09 +0000     8885 bytes  libusb/msvc/libusb_static_2010.vcxproj</tspan>
+<tspan x="10" y="2026">125.  2017-04-20 19:19:09 +0000     2625 bytes  libusb/msvc/libusb_static_2010.vcxproj.filters</tspan>
+<tspan x="10" y="2042">126.  2017-04-20 19:19:09 +0000     9065 bytes  libusb/msvc/libusb_static_2012.vcxproj</tspan>
+<tspan x="10" y="2058">127.  2017-04-20 19:19:09 +0000     2625 bytes  libusb/msvc/libusb_static_2012.vcxproj.filters</tspan>
+<tspan x="10" y="2074">128.  2017-04-20 19:19:09 +0000     9066 bytes  libusb/msvc/libusb_static_2013.vcxproj</tspan>
+<tspan x="10" y="2090">129.  2017-04-20 19:19:09 +0000    26608 bytes  libusb/msvc/libusb_static_wince.vcproj</tspan>
+<tspan x="10" y="2106">130.  2017-04-20 19:19:09 +0000    26630 bytes  libusb/msvc/libusb_wince.sln</tspan>
+<tspan x="10" y="2122">131.  2017-04-20 19:19:09 +0000     4391 bytes  libusb/msvc/listdevs.dsp</tspan>
+<tspan x="10" y="2138">132.  2017-04-20 19:19:09 +0000     7444 bytes  libusb/msvc/listdevs_2005.vcproj</tspan>
+<tspan x="10" y="2154">133.  2017-04-20 19:19:09 +0000     9068 bytes  libusb/msvc/listdevs_2010.vcxproj</tspan>
+<tspan x="10" y="2170">134.  2017-04-20 19:19:09 +0000      519 bytes  libusb/msvc/listdevs_2010.vcxproj.filters</tspan>
+<tspan x="10" y="2186">135.  2017-04-20 19:19:09 +0000     9248 bytes  libusb/msvc/listdevs_2012.vcxproj</tspan>
+<tspan x="10" y="2202">136.  2017-04-20 19:19:09 +0000      519 bytes  libusb/msvc/listdevs_2012.vcxproj.filters</tspan>
+<tspan x="10" y="2218">137.  2017-04-20 19:19:09 +0000     9249 bytes  libusb/msvc/listdevs_2013.vcxproj</tspan>
+<tspan x="10" y="2234">138.  2017-04-20 19:19:09 +0000      352 bytes  libusb/msvc/listdevs_sources</tspan>
+<tspan x="10" y="2250">139.  2017-04-20 19:19:09 +0000    25112 bytes  libusb/msvc/listdevs_wince.vcproj</tspan>
+<tspan x="10" y="2266">140.  2017-04-20 19:19:09 +0000     2494 bytes  libusb/msvc/missing.c</tspan>
+<tspan x="10" y="2282">141.  2017-04-20 19:19:09 +0000     1142 bytes  libusb/msvc/missing.h</tspan>
+<tspan x="10" y="2298">142.  2017-04-20 19:19:09 +0000     7059 bytes  libusb/msvc/stdint.h</tspan>
+<tspan x="10" y="2314">143.  2017-04-20 19:19:09 +0000     8071 bytes  libusb/msvc/stress_2005.vcproj</tspan>
+<tspan x="10" y="2330">144.  2017-04-20 19:19:09 +0000     9038 bytes  libusb/msvc/stress_2010.vcxproj</tspan>
+<tspan x="10" y="2346">145.  2017-04-20 19:19:09 +0000      889 bytes  libusb/msvc/stress_2010.vcxproj.filters</tspan>
+<tspan x="10" y="2362">146.  2017-04-20 19:19:09 +0000     9218 bytes  libusb/msvc/stress_2012.vcxproj</tspan>
+<tspan x="10" y="2378">147.  2017-04-20 19:19:09 +0000      889 bytes  libusb/msvc/stress_2012.vcxproj.filters</tspan>
+<tspan x="10" y="2394">148.  2017-04-20 19:19:09 +0000     9219 bytes  libusb/msvc/stress_2013.vcxproj</tspan>
+<tspan x="10" y="2410">149.  2017-04-20 19:19:09 +0000    25160 bytes  libusb/msvc/stress_wince.vcproj</tspan>
+<tspan x="10" y="2426">150.  2017-04-20 19:19:09 +0000     4346 bytes  libusb/msvc/xusb.dsp</tspan>
+<tspan x="10" y="2442">151.  2017-04-20 19:19:09 +0000     7176 bytes  libusb/msvc/xusb_2005.vcproj</tspan>
+<tspan x="10" y="2458">152.  2017-04-20 19:19:09 +0000     8930 bytes  libusb/msvc/xusb_2010.vcxproj</tspan>
+<tspan x="10" y="2474">153.  2017-04-20 19:19:09 +0000      515 bytes  libusb/msvc/xusb_2010.vcxproj.filters</tspan>
+<tspan x="10" y="2490">154.  2017-04-20 19:19:09 +0000     9110 bytes  libusb/msvc/xusb_2012.vcxproj</tspan>
+<tspan x="10" y="2506">155.  2017-04-20 19:19:09 +0000      515 bytes  libusb/msvc/xusb_2012.vcxproj.filters</tspan>
+<tspan x="10" y="2522">156.  2017-04-20 19:19:09 +0000     9111 bytes  libusb/msvc/xusb_2013.vcxproj</tspan>
+<tspan x="10" y="2538">157.  2017-04-20 19:19:09 +0000      356 bytes  libusb/msvc/xusb_sources</tspan>
+<tspan x="10" y="2554">158.  2017-04-20 19:19:09 +0000    25096 bytes  libusb/msvc/xusb_wince.vcproj</tspan>
+<tspan x="10" y="2570">159.  2017-04-20 19:19:09 +0000      149 bytes  libusb/tests/Makefile.am</tspan>
+<tspan x="10" y="2586">160.  2017-04-20 19:19:09 +0000     3009 bytes  libusb/tests/libusb_testlib.h</tspan>
+<tspan x="10" y="2602">161.  2017-04-20 19:19:09 +0000     4661 bytes  libusb/tests/stress.c</tspan>
+<tspan x="10" y="2618">162.  2017-04-20 19:19:09 +0000     7392 bytes  libusb/tests/testlib.c</tspan>
+<tspan x="10" y="2634">163.  2017-04-20 19:19:09 +0000       33 bytes  libusb_config/config.h</tspan>
+<tspan x="10" y="2650">164.  2017-04-20 19:19:09 +0000     1409 bytes  package.json</tspan>
+<tspan x="10" y="2666">165.  2017-04-20 19:19:09 +0000    11843 bytes  src/device.cc</tspan>
+<tspan x="10" y="2682">166.  2017-04-20 19:19:09 +0000     2794 bytes  src/helpers.h</tspan>
+<tspan x="10" y="2698">167.  2017-04-20 19:19:09 +0000    10455 bytes  src/node_usb.cc</tspan>
+<tspan x="10" y="2714">168.  2017-04-20 19:19:09 +0000     1922 bytes  src/node_usb.h</tspan>
+<tspan x="10" y="2730">169.  2017-04-20 19:19:09 +0000      310 bytes  src/polyfill.h</tspan>
+<tspan x="10" y="2746">170.  2017-04-20 19:19:09 +0000     4115 bytes  src/transfer.cc</tspan>
+<tspan x="10" y="2762">171.  2017-04-20 19:19:09 +0000     1462 bytes  src/uv_async_queue.h</tspan>
+<tspan x="10" y="2778">172.  2017-04-20 19:19:09 +0000     5517 bytes  test/usb.coffee</tspan>
+<tspan x="10" y="2794">173.  2017-04-20 19:19:09 +0000     9663 bytes  usb.js</tspan>
 </text>
 </svg>
