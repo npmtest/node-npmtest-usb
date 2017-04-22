@@ -87,7 +87,8 @@
         "mocha": "~1.8.2",
         "aws-sdk": "~2.0.0-rc.15"
     },
-    "license": "MIT"
+    "license": "MIT",
+    "bin": {}
 }
 ```
 
